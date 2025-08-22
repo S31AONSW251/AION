@@ -1,0 +1,16 @@
+/*
+ * index.css:
+ * This file provides very basic global styles, primarily to reset browser defaults.
+ * All application-specific styling is handled by App.css.
+ */
+
+body {
+  margin: 0; /* Remove default body margin */
+  /* Font family, background color, etc., are now managed by App.css */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
