@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737177779381",
+    "project_id": "aion-dda7d",
+    "storage_bucket": "aion-dda7d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737177779381:android:979b714b3926a20037d2fc",
+        "android_client_info": {
+          "package_name": "COM.AION.AION"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Lhu1SEum_G7upHA_zxEJtt1E7XKdP8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
